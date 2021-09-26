@@ -13,3 +13,5 @@ Day6 : Check tree traversal(simple recursive approach)
 
 Day7 : Largest Subarray With Sum 0 (Kadane Algorithm) O(n) using hashmap.
 
+Day8 : Count number of anagrams (Map and Sliding Window Approach) O(N).
+
