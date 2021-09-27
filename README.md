@@ -15,3 +15,5 @@ Day7 : Largest Subarray With Sum 0 (Kadane Algorithm) O(n) using hashmap.
 
 Day8 : Count number of anagrams (Map and Sliding Window Approach) O(N).
 
+Day9 : Middle Element of Linked List in O(N) using Fast and Slow Pointer.
+
