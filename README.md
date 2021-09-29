@@ -19,6 +19,6 @@ Day9 : Middle Element of Linked List in O(N) using Fast and Slow Pointer.
 
 Day10 : Sort a Stack
 
-Day11 : Restricted Pacman
+Day11 : Restricted Pacman Problem 
 
 
