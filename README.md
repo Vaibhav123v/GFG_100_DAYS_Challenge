@@ -21,4 +21,10 @@ Day10 : Sort a Stack
 
 Day11 : Restricted Pacman Problem 
 
+Day12 : Vertical Order Traversal of Binary tree
+
+Day13 : Check For Binary Search Tree
+
+
+
 
